@@ -1,9 +1,4 @@
- <html>
-     <head>
- <!-- STYLESS.css-->
- <link href="styles/styless.css" rel="stylesheet">
- </head>
- </html>
+
 
  <footer class="blog-footer">
      <a href="index.php"> 

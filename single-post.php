@@ -15,13 +15,15 @@
 
     <!-- Custom styles for this template -->
     <link href="styles/blog.css" rel="stylesheet">
+    <!-- STYLESS.css-->
+    <link href="styles/styless.css" rel="stylesheet">
 </head>
 
 <body>
  
 <?php include('header.php'); ?> 
  
-<body>
+
 
 <?php include('header.php');?>
 <?php include('sidebar.php');?>
@@ -109,5 +111,9 @@
 
 
   <?php include('footer.php'); ?>
+
+
+
+  </body>
 
   

@@ -1,11 +1,11 @@
 <aside class="col-sm-3 ml-sm-auto blog-sidebar">
     <a href="sidebar.php">
             <div class="sidebar-module sidebar-module-inset">
-                <h4 class="heading-about">About</h4>
+                <h4>About</h4>
                 <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
             </div>
             <div class="sidebar-module">
-                <h4 class="heading-archives">Archives</h4>
+                <h4>Archives</h4>
                 <ol class="list-unstyled">
                     <li><a href="#">March 2014</a></li>
                     <li><a href="#">February 2014</a></li>

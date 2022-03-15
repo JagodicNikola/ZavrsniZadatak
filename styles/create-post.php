@@ -15,9 +15,6 @@
 
     <!-- Custom styles for this template -->
     <link href="styles/blog.css" rel="stylesheet">
-
-    <!-- STYLESS.css-->
-    <link href="styles/styless.css" rel="stylesheet">
 </head>
 
 <body>
@@ -27,6 +24,3 @@
   include('sidebar.php');
   include('footer.php');
 ?>
-
-
-</body>

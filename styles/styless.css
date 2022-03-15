@@ -1,0 +1,41 @@
+
+ html {
+ font-size: 14px !important;
+}
+
+title {
+ color:#b34848
+}
+html * {
+ font-size: 14px;
+}
+.blog-masthead *{
+
+ background-color:#b34848;
+}
+
+#heading *{
+
+ color:#b34848
+}
+
+.nav-link:hover {
+
+ text-decoration: underline;
+}
+
+h2  *{
+ color:#b34848;
+}
+
+h3 *{
+ color:#b34848;
+}
+
+.heading-archives {
+ color: #b34848;
+}
+
+.heading-about {
+ color: #b34848;
+}
